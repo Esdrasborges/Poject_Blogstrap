@@ -1,2 +1,2 @@
-# Poject_Blogstrap
+# Project
 Criação de um Blog usando Rails
